@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "language": "HTML",
+    "level": "Experienced"
+  },
+  {
+    "id": 1,
+    "language": "CSS",
+    "level": "Intermediate"
+  },
+  {
+    "id": 2,
+    "language": "JavaScript",
+    "level": "Experienced"
+  },
+  {
+    "id": 3,
+    "language": "Bootstrap",
+    "level": "Basic"
+  },
+  {
+    "id": 4,
+    "language": "Tailwind",
+    "level": "Basic"
+  },
+  {
+    "id": 5,
+    "language": "React",
+    "level": "Experienced"
+  }
+]
