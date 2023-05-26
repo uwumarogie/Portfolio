@@ -45,7 +45,6 @@ function PhotoOfMe() {
 }
 
 export default function About() {
-  const spacer = " ";
   const experience = {
     headline: "Experience",
     description: "1+ Years Working",
@@ -101,7 +100,6 @@ export default function About() {
           </p>
 
           <a href="#contact" className="btn btn-primary">
-            {spacer}
             Let's Talk
           </a>
         </div>
